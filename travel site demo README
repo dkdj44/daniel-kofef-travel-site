@@ -1,0 +1,16 @@
+# daniel-koff travel-site demo : 
+it is a travel site demo build from the ground up uses backend and also uses frontend 
+the backend has a fully working rest api and fully CRUD made with : 
+nodeJS ,
+express , 
+and the database was MYSQL
+and also has layered database requests with controller-layer , logic-layer  , and data accses layer
+and also blocks unauthorized accses to the backend also supports login and JWT.
+and socket.io for live updates for all clients connected
+
+forntend : 
+react with hooks .
+accsesing the database and displaying the data on the site .
+admin only routes .
+block admin/user paths from unauthorized people .
+bootstrap for disign .
